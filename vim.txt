@@ -1,0 +1,13 @@
+#
+# Course LL-101 v.5
+#
+# Lab 04 Ex 02: vim
+# Powered by Lebedev Yuriy (https://lebedevum.blogspot.com)
+# Special for Softline Education (https://edu.softline.com)
+#
+# Example of /etc/fstab config file
+#
+  
+/dev/sda2 / xfs defaults 0 01
+/dev/sda1 /boot ext4 defaults 0 01
+/dev/sda6 swap swap defaults 0 01
