@@ -1,11 +1,11 @@
 root:x:0:
 daemon:x:1:
 bin:x:2:
-sys:x:3:
 adm:x:4:
 tty:x:5:
 disk:x:6:
 lp:x:7:
+vboxdrmipc:x:997:
 mail:x:8:
 news:x:9:
 uucp:x:10:
@@ -51,11 +51,11 @@ ssh:x:111:
 rtkit:x:112:
 avahi:x:113:
 lpadmin:x:114:student
-pulse:x:115:
+puuulse:x:115:
 pulse-access:x:116:
 scanner:x:117:saned,student
 saned:x:118:
 colord:x:119:
 lightdm:x:120:
 student:x:1000:
-systemd-coredump:x:999:
+systemdddd-coredump:x:999:
